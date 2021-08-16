@@ -14,21 +14,25 @@ Country: USA
 ------------------
 ### References
 **[1] The 1D heat conduction example and explanation**
+
 S. Gillijns, O. B. Mendoza, J. Chandrasekar, B. L. De Moor, D. S. Bernstein, and A. Ridley,
 What Is the Ensemble Kalman Filter and How Well Does it Work?, (2006).
 
 **[2] Deeper analysis and explanation of the ensemble Kalman filter, used to develop future codes with CFD simulations**
+
 J. F. Labahn, H. Wu, B. Coriton, J. H. Frank, and M. Ihme, Data Assimilation Using High-
 Speed Measurements and LES to Examine Local Extinction Events in Turbulent Flames,
 Proceedings of the Combustion Institute (2017).
 
 **[3] My Thesis - Explanation of the 1D heat conduction example and further examples**
+
 Squeo, J.N. [2021], Data-based soot modeling in buoyancy-driven diffusion flames, Dissertation, The University of Connecticut.
 
 Available here: [Squeo Thesis](https://collections.ctdigitalarchive.org/islandora/object/20002:UConnTheses)
 Type "Squeo" into the search bar.
 
 **[4] For a more complete understanding of Kalman filter and the mathematics/Bayesian statistics behind the algorithms**
+
 Geir Evensen. Data assimilation: The ensemble Kalmanf filter. Springer.
 
 
